@@ -1,4 +1,12 @@
-dependencies: null
+metadata:
+  organisation-id: e6
+  pattern-categories:
+  - Storage
+  pattern-description: Encryption pattern for E6
+  pattern-id: onp.e6.storage.encryption
+  pattern-name: e6.storage.encryption
+  pattern-version: 1.0.0
+
 lifecycle:
   create:
     commands:
@@ -12,11 +20,5 @@ lifecycle:
   upgrade:
     commands:
     - bash lifecycle/upgrade.sh
-metadata:
-  organisation-id: onp
-  pattern-categories:
-  - Storage
-  pattern-description: Encryption pattern for E6
-  pattern-id: onp.e6.storage.encryption
-  pattern-name: e6.storage.encryption
-  pattern-version: 1.0.0
+
+dependencies: null

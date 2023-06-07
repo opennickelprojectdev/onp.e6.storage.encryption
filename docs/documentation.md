@@ -1,14 +1,14 @@
-# onp.base.template
+# e6.storage.encryption
 
 ## Metadata
 | attribute               | value                                         |
 | ----------------------- | --------------------------------------------- |
-| pattern-id              | onp.base.template                             |
-| pattern-name            | base template                                 |
+| pattern-id              | e6.storage.encryption                             |
+| pattern-name            | e6.storage.encryption                               |
 | pattern-version         | 1.0.0                                         |
-| pattern-description     | Some description here                         |
-| organisation-id         | nc                                            |
-| pattern-categories      | bootstrap                                     |
+| pattern-description     | Encryption pattern for E6                        |
+| organisation-id         | e6                                            |
+| pattern-categories      | storage                                     |
 
 ## What is this pattern?
 This pattern is a basic template, modify it as you see fit
