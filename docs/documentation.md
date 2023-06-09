@@ -11,7 +11,7 @@
 | pattern-categories      | storage                                     |
 
 ## What is this pattern?
-This pattern is a basic template, modify it as you see fit
+Data Storage & Encryption component identified as part of the internal architecture structure for the Tritum Platform which is a dual-entry multi-asset ledger. 
 
 ![](./diagrams/res/overview.png)
 
